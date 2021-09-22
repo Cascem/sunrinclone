@@ -31,3 +31,16 @@
   background-color: white;
   width: 200px;
 }
+
+.intro a {
+  display: none;
+  position: absolute;
+  left: 0px;
+  top: 100%;
+  list-style: none;
+  margin-left: -70px;
+  padding: 20px;
+  border: 1px solid orange;
+  background-color: white;
+  width: 200px;
+}
